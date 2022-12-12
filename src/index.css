@@ -1,0 +1,12 @@
+HTML, body {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+  font-family: 'Merriweather', serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: darkslategray;
+  scroll-behavior: smooth;
+  color: white;
+  }
+
