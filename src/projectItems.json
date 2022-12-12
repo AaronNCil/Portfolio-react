@@ -9,8 +9,8 @@
     {
         "image":"Ecommerce",
         "name":"Ecommerce Project",
-        "technologies":["Html", "Css", "JavaScript"],
-        "link":"https://main.d1lv4odsviplu6.amplifyapp.com/"
+        "technologies":["React.js"],
+        "link":"https://swaves.netlify.app/"
     },
     {
         "image":"Hopehacks",
