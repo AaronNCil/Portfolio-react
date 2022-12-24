@@ -9,8 +9,8 @@
     {
         "image":"Ecommerce",
         "name":"Ecommerce Project",
-        "technologies":["React.js"],
-        "link":"https://swaves.netlify.app/"
+        "technologies":["React.js", "Node.js", "Express.js", "MySql"],
+        "link":"http://ec2-52-90-88-59.compute-1.amazonaws.com/"
     },
     {
         "image":"Hopehacks",
